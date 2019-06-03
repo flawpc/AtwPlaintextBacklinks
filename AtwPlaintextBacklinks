@@ -1,0 +1,1 @@
+javascript:location = 'http://www.alltheweb.com/search?q=' + escape(location.href) + '+-link.all:' + escape(location.href);
